@@ -6,7 +6,7 @@ e o arquivo `pubspec.yaml` devera subistituir o seu.
 
 ao criar o flutter utilize o nome `desafio`.
 foi feito o download da API de .csv, porém não foi utilizada.
-
+e o arquivo `demonstracao.gif` é apenas o video abaixo
 
 
 e pesso desculpas por fazer você olha essas montanhas...
