@@ -1,0 +1,1 @@
+Os arquivo `data` `img/icons` `gen1` vão todos dentro de uma pasta chamada `assets`, porém o arquivo `gen1` tem um caminho a mais chamado `pokedex`, entao ele ficaria com o caminho `assets/pokedex/gen1/[conteúdo].png`
